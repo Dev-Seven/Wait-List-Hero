@@ -1,0 +1,10 @@
+.navbar-vertical .navbar-brand-img, .navbar-vertical .navbar-brand > img{
+ 	margin-top: -30px; 
+ 	max-height: 7rem;
+}
+.error{
+	color: #D8000C;
+}
+.bg-gradient-default {
+    background: linear-gradient(87deg, #5e72e4 0, #5e72e4 100%) !important;
+}
